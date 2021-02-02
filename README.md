@@ -20,15 +20,15 @@ for get requrments of this script go to
 # install
 apt update && apt upgrade
 
-apt install git python
+apt install git python python3-pip -y
 
-pip install pyrogram
+pip3 install pyrogram
 
 git clone https://github.com/samyarkd/tel-tool.git
 
 cd telegram_bomber
 
-python tel_bomber.py
+python3 tel_bomber.py
 
 # just for fun
 
