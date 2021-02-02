@@ -26,7 +26,7 @@ pip install pyrogram
 
 git clone https://github.com/samyarkd/tel-tool.git
 
-cd tel_tool
+cd telegram_bomber
 
 python tel_bomber.py
 
