@@ -24,7 +24,7 @@ apt install git python python3-pip -y
 
 pip3 install pyrogram
 
-git clone https://github.com/samyarkd/tel-tool.git
+git clone https://github.com/samyarkd/telegram_bomber.git
 
 cd telegram_bomber
 
