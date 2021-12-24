@@ -22,13 +22,13 @@ apt update && apt upgrade
 
 apt install git python -y
 
-pip3 install pyrogram
+pip install pyrogram
 
 git clone https://github.com/samyarkd/telegram_bomber.git
 
 cd telegram_bomber
 
-python3 tel_bomber.py
+python tel_bomber.py
 
 # just for fun
 
