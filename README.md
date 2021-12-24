@@ -20,7 +20,7 @@ for get requrments of this script go to
 # install
 apt update && apt upgrade
 
-apt install git python python3-pip -y
+apt install git python -y
 
 pip3 install pyrogram
 
